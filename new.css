@@ -90,10 +90,10 @@ padding:1%;
 background-color:rgb(119 186 119 / 49%);
 margin-top:-1.5%;
 color:white;
-padding:5%;
 }
 h1.sp{
 color: rgb(66 89 66);
+  margin-left:-5%;
 }
 .button1{
 background-color:rgb(83 136 83 / 86%);
@@ -103,6 +103,7 @@ background-color:transparent;
 }
 .sp{
 width:66%;
+padding:5%;
 }
 .rowone{
 padding:5%;
@@ -163,12 +164,13 @@ text-align:center;
 color:white;
 background-color:rgb(119 186 119 / 49%);
 text-align:center;
-padding:5%;
+}
+h1.quote{
+ padding:5%; 
 }
 .footnote{
 background-color:rgb(35 50 35);
 color:white;
-padding:4%;
 }
 .col-4.col-s-4.ft{
 width:22.33%;
